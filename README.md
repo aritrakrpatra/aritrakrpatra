@@ -22,10 +22,7 @@
 - Servlet-based backend, Oracle SQL
 ➡️ *Tech:* Java, JDBC, Servlets, SQL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aritrakrpatra&show_icons=true&theme=radical" height="160">
-  <img src="https://streak-stats.demolab.com?user=aritrakrpatra&theme=radical" height="160">
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
